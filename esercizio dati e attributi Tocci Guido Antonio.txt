@@ -1,0 +1,16 @@
+https://archive.ics.uci.edu/ml/datasets/Guitar+Chords+finger+positions
+
+Informazioni sugli attributi:
+
+Le posizioni delle dita sono indicate per ogni corda di chitarra (dal Mi più basso al più alto).
+x: corda disattivata, 0: corda aperta, 1: indice, 2: medio, 3: anulare, 4: mignolo
+
+gli identificativi sono:
+corde di nylon
+corde di nylon rivestito in lega (bronzo, argento o gold plated )
+corde di acciaio
+corde di acciaio nichelato
+corde di nichel puro
+corde di ottone 
+corde di bronzo 
+corde di bronzo fosforoso
